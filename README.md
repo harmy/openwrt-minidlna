@@ -35,6 +35,13 @@ Compile
 make package/minidlna/compile V=99 -j8
 ```
 
+## credit
+
+[jmaggard][2]
+
+[takeshich][3]
+
+
 
 # 带有dsd支持的openwrt-minidlna
 
@@ -73,7 +80,14 @@ git clone https://github.com/harmy/openwrt-minidlna.git package/minidlna
 make package/minidlna/compile V=99 -j8
 ```
 
+## 感谢
+
+[jmaggard][2]
+
+[takeshich][3]
 
 
 
 [1]: https://sourceforge.net/projects/minidlna/
+[2]: https://sourceforge.net/p/minidlna/git/ci/master/tree/
+[3]: https://sourceforge.net/u/takeshich/minidlna/ci/master/tree/
