@@ -31,7 +31,6 @@ git clone https://github.com/harmy/openwrt-minidlna.git package/minidlna
 Compile
 
 ```
-# -j8可根据你的VM的CPU数量调整，有助于加快编译速度
 make package/minidlna/compile V=99 -j8
 ```
 
@@ -40,6 +39,7 @@ make package/minidlna/compile V=99 -j8
 [jmaggard][2]
 
 [takeshich][3]
+
 
 
 
